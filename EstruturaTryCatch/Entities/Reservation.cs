@@ -17,6 +17,7 @@ namespace EstruturaTryCatch.Entities
 
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            // CheckOut bigger then Checkin
             if (checkOut <= checkIn)
             {
                 throw new DomainException("Check-Out date must be after check-in date");
