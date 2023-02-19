@@ -1,0 +1,15 @@
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.exe
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.deps.json
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.runtimeconfig.json
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.dll
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net6.0\EstruturaTryCatch.pdb
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.csproj.AssemblyReference.cache
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.AssemblyInfoInputs.cache
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.AssemblyInfo.cs
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.csproj.CoreCompileInputs.cache
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.dll
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\refint\EstruturaTryCatch.dll
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.pdb
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\EstruturaTryCatch.genruntimeconfig.cache
+D:\Projetos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net6.0\ref\EstruturaTryCatch.dll
